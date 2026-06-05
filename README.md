@@ -43,7 +43,6 @@ Superstore-Sales-Analytics/
 │   └── advance_analysis.ipynb
 │
 ├── README.md
-└── requirements.txt
 ```
 
 ---
