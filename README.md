@@ -1,6 +1,6 @@
-# 📊 Superstore Sales Analytics Dashboard
+# Superstore Sales Analytics Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 The Superstore Sales Analytics Dashboard is a data analysis project developed using Python to analyze retail sales data and generate actionable business insights. This project explores sales performance, profitability, customer behavior, and product trends using data analysis and visualization techniques.
 
@@ -8,7 +8,7 @@ The goal of this project is to transform raw sales data into meaningful insights
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze overall sales performance.
 - Identify top-selling products and categories.
@@ -19,7 +19,7 @@ The goal of this project is to transform raw sales data into meaningful insights
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -30,7 +30,7 @@ The goal of this project is to transform raw sales data into meaningful insights
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Superstore-Sales-Analytics/
@@ -48,7 +48,7 @@ Superstore-Sales-Analytics/
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 ### Sales Analysis
 - Total Sales
@@ -77,21 +77,16 @@ Superstore-Sales-Analytics/
 
 ---
 
-## 📈 Visualizations Included
+## Visualizations Included
 
 - Bar Charts
-- Line Charts
 - Pie Charts
-- Histograms
-- Heatmaps
-- Count Plots
-- Correlation Analysis
 
 These visualizations help identify trends, patterns, and business opportunities within the dataset.
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Clone the Repository
 
@@ -113,7 +108,7 @@ pip install pandas numpy matplotlib seaborn openpyxl jupyter
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 Launch Jupyter Notebook:
 
@@ -137,7 +132,7 @@ Run all cells to perform analysis and generate visualizations.
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - Identified top-performing products and categories.
 - Analyzed profit contribution across regions.
@@ -147,23 +142,26 @@ Run all cells to perform analysis and generate visualizations.
 
 ---
 
-## 📚 Dataset Information
+##  Dataset Information
 
 The project uses the Superstore Sales Dataset containing:
 
 - Order Details
-- Customer Information
-- Product Information
+- Customer Name
+- Product Name
+- Product Id
 - Sales Data
 - Profit Data
 - Regional Information
-- Shipping Details
+- Ship Date
+- order Date
+- etc
 
 ---
 
 
 
-## 👨‍💻 Author
+## Author
 
 ### Sudrshan Genure
 
@@ -185,7 +183,7 @@ The project uses the Superstore Sales Dataset containing:
 
 ---
 
-## ⭐ Future Enhancements
+## Future Enhancements
 
 - Interactive Power BI Dashboard
 - Sales Forecasting
