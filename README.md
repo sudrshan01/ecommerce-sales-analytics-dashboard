@@ -91,7 +91,7 @@ These visualizations help identify trends, patterns, and business opportunities 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Superstore-Sales-Analytics.git
+git clone https://github.com/sudrshan01/Superstore-Sales-Analytics.git
 ```
 
 ### Navigate to the Project Directory
