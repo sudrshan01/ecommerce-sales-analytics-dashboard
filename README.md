@@ -1,8 +1,8 @@
-# Superstore Sales Analytics Dashboard
+#  E-commerce-Sales-Analytics Dashboard
 
 ## Project Overview
 
-The Superstore Sales Analytics Dashboard is a data analysis project developed using Python to analyze retail sales data and generate actionable business insights. This project explores sales performance, profitability, customer behavior, and product trends using data analysis and visualization techniques.
+The Superstore Sales Analytics  is a data analysis project developed using Python to analyze retail sales data and generate actionable business insights. This project explores sales performance, profitability, customer behavior, and product trends using data analysis and visualization techniques.
 
 The goal of this project is to transform raw sales data into meaningful insights that can support business decision-making.
 
@@ -33,7 +33,7 @@ The goal of this project is to transform raw sales data into meaningful insights
 ## Project Structure
 
 ```text
-Superstore-Sales-Analytics-Dashboard/
+E-commerce-Sales-Analytics/
 │
 ├── data/
 │   └── Superstore-final.xlsx
