@@ -33,16 +33,54 @@ The goal of this project is to transform raw sales data into meaningful insights
 ## Project Structure
 
 ```text
-Superstore-Sales-Analytics/
+Superstore-Sales-Analytics-Dashboard/
 │
 ├── data/
-│   └── Superstore-final.xlsx
+│   └── Superstore.csv
 │
 ├── python/
-│   ├── analysis.ipynb
-│   └── advance_analysis.ipynb
+│   ├── basic_analysis.ipynb
+│   ├── customers_orders_analysis.ipynb
+│   └── sales_profit_analysis.ipynb
+│
+├── output/
+│
+│   ├── basic_analysis/
+│   │   ├── monthly_sales_trend.png
+│   │   ├── Profit by Category.png
+│   │   └── Sales by Region.png
+│   │
+│   ├── customer_orders/
+│   │   ├── Ordered Multiple Items vs Single Items percentage.png
+│   │   ├── Customer Reordered vs Single Order Products.png
+│   │   ├── Orders and Sales by Segment.png
+│   │   ├── Product Order Distribution.png
+│   │   ├── Region-wise Customers and Orders.png
+│   │   ├── Reordered vs Single Order Products.png
+│   │   ├── Repeated vs Non-Repeated Customers percentage.png
+│   │   ├── Repeated vs Non-Repeated Customers.png
+│   │   ├── Segment-wise Customers and Orders.png
+│   │   ├── Segment-wise Sales and Profit.png
+│   │   └── Top 10 Most Ordered Products.png
+│   │
+│   └── sale_profit/
+│       ├── Monthly Profit Trend by Year.png
+│       ├── Monthly Sales Trend by Year.png
+│       ├── Overall Monthly Sales and Profit (2014-2017).png
+│       ├── Sales and Profit by Category.png
+│       ├── Sales and Profit by Region.png
+│       ├── Sales and Profit by Sub-Category.png
+│       ├── Segment-wise Sales and Profit.png
+│       ├── Top 10 Least Profitable Products.png
+│       ├── Top 10 Most Profitable Products.png
+│       ├── Total Sales and Profit Performance.png
+│       ├── Year-over-Year Sales and Profit Growth (%).png
+|       ├── Year-wise Sales and Profit Analysis (2014-2017)1.png
+│       └── Year-wise Sales and Profit Analysis (2014-2017).png
 │
 ├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
 ---
