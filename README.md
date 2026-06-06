@@ -40,8 +40,8 @@ Superstore-Sales-Analytics-Dashboard/
 │
 ├── python/
 │   ├── basic_analysis.ipynb
-│   ├── customers_orders_analysis.ipynb
-│   └── sales_profit_analysis.ipynb
+│   ├── customers&orders_analysis.ipynb
+│   └── sales&profit_analysis.ipynb
 │
 ├── output/
 │
