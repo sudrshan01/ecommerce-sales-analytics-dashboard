@@ -79,7 +79,6 @@ Superstore-Sales-Analytics-Dashboard/
 │       └── Year-wise Sales and Profit Analysis (2014-2017).png
 │
 ├── README.md
-├── requirements.txt
 └── .gitignore
 ```
 
