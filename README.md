@@ -36,7 +36,7 @@ The goal of this project is to transform raw sales data into meaningful insights
 Superstore-Sales-Analytics-Dashboard/
 │
 ├── data/
-│   └── Superstore.csv
+│   └── Superstore-final.csv
 │
 ├── python/
 │   ├── basic_analysis.ipynb
