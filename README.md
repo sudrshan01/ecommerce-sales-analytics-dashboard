@@ -120,6 +120,7 @@ Superstore-Sales-Analytics-Dashboard/
 - Line Chart
 - Horizontal Bar Chart
 - Histogram
+
 These visualizations help identify trends, patterns, and business opportunities within the dataset.
 
 ---
