@@ -40,11 +40,14 @@ E-commerce-Sales-Analytics/
 │
 ├── python/
 │   ├── basic_analysis.ipynb
-│   ├── customers&orders_analysis.ipynb
-│   └── sales&profit_analysis.ipynb
+│   ├── customers_orders_analysis.ipynb
+│   └── sales_profit_analysis.ipynb
+│
+├── excel/
+│   └── Superstore_Sales_Analytics_Dashboard.xlsx
 │
 ├── output/
-│
+│   │
 │   ├── basic_analysis/
 │   │   ├── monthly_sales_trend.png
 │   │   ├── Profit by Category.png
@@ -63,7 +66,7 @@ E-commerce-Sales-Analytics/
 │   │   ├── Segment-wise Sales and Profit.png
 │   │   └── Top 10 Most Ordered Products.png
 │   │
-│   └── sale_profit/
+│   └── sales_profit/
 │       ├── Monthly Profit Trend by Year.png
 │       ├── Monthly Sales Trend by Year.png
 │       ├── Overall Monthly Sales and Profit (2014-2017).png
@@ -75,13 +78,11 @@ E-commerce-Sales-Analytics/
 │       ├── Top 10 Most Profitable Products.png
 │       ├── Total Sales and Profit Performance.png
 │       ├── Year-over-Year Sales and Profit Growth (%).png
-|       ├── Year-wise Sales and Profit Analysis (2014-2017)1.png
+│       ├── Year-wise Sales and Profit Analysis (2014-2017)1.png
 │       └── Year-wise Sales and Profit Analysis (2014-2017).png
 │
 ├── README.md
 └── .gitignore
-```
-
 ---
 
 ##  Analysis Performed
