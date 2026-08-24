@@ -352,17 +352,11 @@ The Tableau Public version provides the interactive online dashboard.
 # 🔗 Tableau Public Dashboard
 
 **View the interactive Tableau dashboard:**
-
-[View E-Commerce Sales Analytics Dashboard](YOUR_TABLEAU_PUBLIC_LINK_HERE)
-
-> Replace `YOUR_TABLEAU_PUBLIC_LINK_HERE` with the actual Tableau Public URL after publishing the dashboard.
-
+[https://public.tableau.com/app/profile/sudrshan.genure/viz/E-CommerceSalesAnalyticsDashboard_17875559823730/Dashboard1]
 ---
 
 # 🖼️ Dashboard Preview
-
-![E-Commerce Sales Analytics Dashboard](tableau/dashboard.png)
-
+[https://public.tableau.com/app/profile/sudrshan.genure/viz/E-CommerceSalesAnalyticsDashboard_17875559823730/Dashboard1]
 ---
 
 # 💡 Key Business Insights
